@@ -1,0 +1,11 @@
+<p>
+root@abinawan:~# cd /Home/Documents/Personal_info/ <br> </br> root@abinawan:~/Home/Documents/Personal_info# sudo nano personal details.txt <br> </br> Name : Abinawan Bhattarai <br> </br> GENDER : Male <br> </br> DOB : 2003/10/17 <br> </br> Permanent address : Biratnagar, Morang <br> </br> Residental Address : Kathmandu, Nepal <br> </br> cd ..  <br> </br> root@abinawan:~/Home/Documents/Personal_info# sudo nano education.txt <br> </br> CURRENT : Advanced College of Engineering, Kalanki. <br> </br> cd ..  <br> </br>
+ <br> </br> 
+ I don't have anything more to show for now xD.
+ <br> </br>
+  cd .. <br> </br>
+ root@abinawan:~/Home/Documents/Personal_info# sudo nano contact.txt <br> </br>
+ feel free to send me an email at : daju.in.usa@gmail.com
+ <a href="https://www.instagram.com/_abinawan/">Instagram </a> <br> </br>
+exitting terminal.. <br> </br>
+</p>
